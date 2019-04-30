@@ -7,4 +7,5 @@ Simple Slot Machine game made with SFML. Not much to it.
 # Controls
 
 Arrow Up/Down -> Add/Remove Credits
+
 Enter         -> Play
