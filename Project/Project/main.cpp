@@ -1,7 +1,5 @@
 /*
-	Made by: Daniel Rangel
 	13-03-2019
-	https://danielrangel.pt
 
 	SlotMachine Game
 */
